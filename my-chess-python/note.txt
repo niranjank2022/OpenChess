@@ -1,0 +1,3 @@
+For promotion of pawn, once the pawn reached the opposite end, player has to be prompted about 
+piece to be promoted into. This functionality need not be in Pawn class. Need to come up with bringing this
+functionality.
