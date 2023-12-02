@@ -1,4 +1,4 @@
-# myChess
+# OpenChess
 A Chess application 
 
 ## All the Beginner folks! Welcome! ☺🙌
