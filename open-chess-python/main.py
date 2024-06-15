@@ -7,7 +7,7 @@ if __name__ == '__main__':
     player1 = Player(PieceColor.WHITE, board)
     player2 = Player(PieceColor.BLACK, board)
 
-    while board.status == GameCode.OVER:
+    while board.status == GameCode.PLAYING:
         print("Player 1's turn:\n")
         while player1.getCommand():
             pass
